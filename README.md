@@ -9,10 +9,10 @@ Tip: For the best experience, if the game appears too large to fit in your brows
 
 Features
 
-Classic Tetris gameplay
-Real-time score updates
-Line clearing and level progression
-Simple and intuitive controls
+Classic Tetris gameplay, 
+Real-time score updates, 
+Line clearing and level progression, 
+Simple and intuitive controls, 
 Ghost piece preview (shows where the piece will land)
 
 Usage
@@ -31,29 +31,14 @@ The goal is to complete horizontal lines without gaps, which will then disappear
 
 Technologies Used
 
-JavaScript (ES6+)
-React
-HTML5
+JavaScript (ES6+),
+React,
+HTML5,
 CSS3
 
-Project Structure
-
-Here's a brief overview of the project structure:
-
-bash
-Copy code
-/src
-  /components   # Reusable React components
-  /hooks        # Custom React hooks
-  /business        # Utility functions
-  App.js        # Main application component
-  index.js      # Entry point
-  styles.css    # Global styles
-  
 Acknowledgments
 
 YouTube Tutorial: This project was heavily inspired by How to Build Tetris with JavaScript and React by Restful Coder (YouTube).
-React Community: For providing great documentation and support.
 
 Future Improvements
 
