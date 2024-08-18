@@ -1,6 +1,6 @@
 Tetris Game in React
 
-Welcome to my Tetris game! This project is a React-based implementation of the classic Tetris game, created as a learning exercise. The code was developed by following a YouTube tutorial, and while I'm still learning, I'm proud of how the project turned out. Below, you'll find details on how to set up, play, and understand the project.
+Welcome to my Tetris game! This project is a React-based implementation of the classic Tetris game, created as a learning exercise. The code was developed by following a YouTube tutorial. Below, you'll find details on how to set up, play, and understand the project.
 
 DEMO!
 Check out the live version of the game in your browser here --->  https://j-greaves.github.io/tetris/
