@@ -20,9 +20,13 @@ Usage
 Once the game is running, use the following controls to play:
 
 Arrow Keys: Move the Tetromino left, right, or down.
+
 Up Arrow: Rotate the Tetromino.
+
 Spacebar: Instantly drop the Tetromino to the bottom.
+
 P: Pause the game.
+
 The goal is to complete horizontal lines without gaps, which will then disappear and add to your score. The game speeds up as you clear more lines.
 
 Technologies Used
