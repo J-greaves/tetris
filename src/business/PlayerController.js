@@ -1,6 +1,6 @@
-import { hasCollision, isWithinBoard } from "/src/business/Board";
-import { rotate } from "/src/business/Tetrominoes";
-import { Action } from "/src/business/Input";
+import { hasCollision, isWithinBoard } from "./Board";
+import { rotate } from "./Tetrominoes";
+import { Action } from "./Input";
 
 const attemptRotation = ({ board, player, setPlayer }) => {
   const shape = rotate({

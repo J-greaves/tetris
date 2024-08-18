@@ -1,10 +1,10 @@
 import "./Preview.css";
 import React from "react";
 
-import { buildBoard } from "/src/business/Board";
-import { transferToBoard } from "/src/business/Tetrominoes";
+import { buildBoard } from "../business/Board";
+import { transferToBoard } from "../business/Tetrominoes";
 
-import BoardCell from "/src/components/BoardCell";
+import BoardCell from "./BoardCell";
 
 const Preview = ({ tetromino, index }) => {
   const { shape, className } = tetromino;
