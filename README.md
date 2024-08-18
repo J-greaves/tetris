@@ -4,6 +4,7 @@ Welcome to my Tetris game! This project is a React-based implementation of the c
 
 DEMO!
 Check out the live version of the game in your browser here --->  https://j-greaves.github.io/tetris/
+
 Tip: For the best experience, if the game appears too large to fit in your browser window, try reducing the width of your window to a more portrait orientation. This will cause the game to scale down and fit nicely within the screen.
 
 Features
